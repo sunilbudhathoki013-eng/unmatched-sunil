@@ -3,4 +3,5 @@ This is my first github repository.
 <br>
 Author- Sunil Budhathoki 
 <br>
-This repository is only used by sunil who is the owner of this github repository 
+This repository is only used by sunil. <br>
+Repository means folder/files of github.
